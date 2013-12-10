@@ -1,8 +1,8 @@
 @lightory's life
 ===============
 
-- 24/02/1955 Born
-- ~1968 Summer job
-- 03/1976 Built a computer
-- 01/04/1976 Started a [company](http://en.wikipedia.org/wiki/Apple_Inc. "Apple Inc.")
-- 04/1976-2011 Whole bunch of interesting events
+- 28/07/1990 Born
+- 07/2007-06/2011 Attend College @ Nanjing University
+- 07/2010-09/2010 Product Designer(Intern) @ Tencent
+- 04/2011-12/2011 Product Management Engineer @ [Baixing](http://baixing.com)
+- 01/2012-~ Help Founding [Huohua](http://huohua.in)
