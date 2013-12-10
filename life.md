@@ -2,7 +2,7 @@
 ===============
 
 - 28/07/1990 Born
-- 09/1996-06/2011 Primary School
+- 09/1996-06/2001 Primary School
 - 09/2001-06/2004 Junior High School
 - 09/2004-06/2007 Senior High School
 - 06/2007-05/2010 Writing a Tech Blog - [Weborn](http://lightory.net/tag/weborn/)
