@@ -7,4 +7,7 @@
 - 07/2010-09/2010 Product Designer (Intern) @ Tencent
 - 11/11/2010 Launch of [Baibai](http://lightory.net/baibai-bookshelf-alpha-invitation/628/)
 - 04/2011-12/2011 Product Management Engineer @ [Baixing](http://baixing.com)
+- 21/06/2011 Launch of [AnimeTaste iOS App](https://itunes.apple.com/cn/app/animetaste/id444912104?mt=8)
 - 01/2012-~ Help Founding [Huohua](http://huohua.in)
+- 24/04/2012 Launch of [Huohua TV iOS App](https://itunes.apple.com/cn/app/huo-hua-dian-shi-ju-dian-ying/id584296227)
+- 10/12/2012 Launch of Huohua Life iOS App
