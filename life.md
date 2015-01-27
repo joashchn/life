@@ -16,4 +16,5 @@
 - 24/04/2012 Launch of [Huohua TV iOS App](https://itunes.apple.com/cn/app/huo-hua-dian-shi-ju-dian-ying/id584296227)
 - 10/12/2012 Launch of Huohua Life iOS App
 - 04/2014-~ Founding [Pudding](http://pudding.cc)
+- 23/05/2014 Launch of [Pudding Anime Android App](http://app.mi.com/detail/62352)
 - 04/06/2014 Launch of [Pudding Anime iOS App](https://itunes.apple.com/cn/app/bu-ding-dong-hua/id869243194?mt=8)
