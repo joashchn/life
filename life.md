@@ -7,7 +7,7 @@
 - 09/2004-06/2007 Senior High School
 - 06/2007-05/2010 Writing a Tech Blog - [Weborn](http://lightory.net/tag/weborn/)
 - 09/2007-06/2011 Attending College @ Nanjing University
-- 05/07/2010-07/11/2013 Relationship w/ @Fei
+- 05/07/2010-07/11/2012 Relationship w/ @Fei
 - 07/2010-09/2010 Product Designer (Intern) @ Tencent
 - 11/11/2010 Launch of [Baibai](http://lightory.net/baibai-bookshelf-alpha-invitation/628/)
 - 04/2011-12/2011 Product Management Engineer @ [Baixing](http://baixing.com)
